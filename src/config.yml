@@ -1,0 +1,14 @@
+#Mineable configuration file
+#If true, the player can mine the block with silk touch
+furnace: true
+blast_furnace: true
+smoker: true
+chest: true
+trapped_chest: true
+barrel: true
+hopper: true
+dispenser: true
+dropper: true
+brewing_stand: true
+
+

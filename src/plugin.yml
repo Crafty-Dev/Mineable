@@ -1,0 +1,13 @@
+name: Mineable
+version: 1.0
+author: Crafty
+main: de.crafty.mineable.main.Mineable
+
+api-version: 1.16
+
+commands:
+  mineable:
+    usage: §7/mineable <reloadConfig|recreateConfig>
+    description: §7Main command for the Mineable Plugin
+    permission: mineable.cmd
+    permission-message: §cYou do not have the permission to use this command
